@@ -1,0 +1,29 @@
+[
+  {
+    "id": 101,
+    "location": "123 Main St, New York",
+    "price": 450000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertyType": "house",
+    "imageUrl": "https://s3.amazonaws.com/rcp-prod-uploads/property_images/slider_images/2021-06/da3ae62144e59058a1d27b1b958af4b96a6135e5LE.jpg"
+  },
+  {
+    "id": 102,
+    "location": "456 Oak Ave, Los Angeles",
+    "price": 650000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "propertyType": "house",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg05oCCpRx3IHhtJRHcyIzpTG6SJTTNazCVw&s"
+  },
+  {
+    "id": 103,
+    "location": "22 Cedar Lane, Seattle",
+    "price": 590000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "propertyType": "house",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQracQu4WbuywNp_VIaZtSpoBYPN4U-EeM30A&s"
+  }
+]
