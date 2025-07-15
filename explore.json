@@ -7,7 +7,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "house",
-    "imageUrl": "https://images.unsplash.com/photo-1605352081508-2e09927ecfe3?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQ5fHx8ZW58MHx8fHx8",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
     "mapLink": "https://www.google.com/maps?q=123+Elm+St,+New+York,+NY"
   },
   {
@@ -18,7 +18,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "apartment",
-    "imageUrl": "https://source.unsplash.com/800x600/?apartment,luxury,city,sanfrancisco",
+    "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
     "mapLink": "https://www.google.com/maps?q=456+Market+St,+San+Francisco,+CA"
   },
   {
@@ -29,7 +29,7 @@
     "bedrooms": 5,
     "bathrooms": 4,
     "propertyType": "villa",
-    "imageUrl": "https://source.unsplash.com/800x600/?villa,beach,miami",
+    "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f7c4c59d",
     "mapLink": "https://www.google.com/maps?q=9+Ocean+Drive,+Miami,+FL"
   },
   {
@@ -40,7 +40,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "propertyType": "cottage",
-    "imageUrl": "https://source.unsplash.com/800x600/?cottage,cozy,asheville",
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-bff31c4c6e90",
     "mapLink": "https://www.google.com/maps?q=77+Maple+Lane,+Asheville,+NC"
   },
   {
@@ -51,7 +51,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "propertyType": "loft",
-    "imageUrl": "https://source.unsplash.com/800x600/?loft,denver,urban",
+    "imageUrl": "https://images.unsplash.com/photo-1572120361630-6f2f06a68623",
     "mapLink": "https://www.google.com/maps?q=22+Pearl+St,+Denver,+CO"
   },
   {
@@ -62,7 +62,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "house",
-    "imageUrl": "https://source.unsplash.com/800x600/?house,suburban,austin",
+    "imageUrl": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
     "mapLink": "https://www.google.com/maps?q=18+River+Rd,+Austin,+TX"
   },
   {
@@ -73,7 +73,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "penthouse",
-    "imageUrl": "https://source.unsplash.com/800x600/?penthouse,luxury,chicago",
+    "imageUrl": "https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db",
     "mapLink": "https://www.google.com/maps?q=88+Sky+Tower,+Chicago,+IL"
   },
   {
@@ -84,7 +84,7 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "propertyType": "studio",
-    "imageUrl": "https://source.unsplash.com/800x600/?studio,urban,seattle",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154526-990dced4db0d",
     "mapLink": "https://www.google.com/maps?q=300+King+St,+Seattle,+WA"
   },
   {
@@ -95,7 +95,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "farmhouse",
-    "imageUrl": "https://source.unsplash.com/800x600/?farmhouse,riverside,nashville",
+    "imageUrl": "https://images.unsplash.com/photo-1576941089067-2de3c901e126",
     "mapLink": "https://www.google.com/maps?q=15+Riverbank+Rd,+Nashville,+TN"
   },
   {
@@ -106,7 +106,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "townhouse",
-    "imageUrl": "https://source.unsplash.com/800x600/?brownstone,boston,historic",
+    "imageUrl": "https://images.unsplash.com/photo-1562438668-7e5c4a5a6d0b",
     "mapLink": "https://www.google.com/maps?q=10+Beacon+Hill,+Boston,+MA"
   },
   {
@@ -117,7 +117,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "rowhouse",
-    "imageUrl": "https://source.unsplash.com/800x600/?rowhouse,washingtondc,modern",
+    "imageUrl": "https://images.unsplash.com/photo-1600585153490-76fb20a0f2a0",
     "mapLink": "https://www.google.com/maps?q=55+H+St,+Washington,+DC"
   },
   {
@@ -128,7 +128,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "duplex",
-    "imageUrl": "https://source.unsplash.com/800x600/?duplex,spacious,atlanta",
+    "imageUrl": "https://images.unsplash.com/photo-1600585152915-d208bec867a1",
     "mapLink": "https://www.google.com/maps?q=1910+North+Ave,+Atlanta,+GA"
   },
   {
@@ -139,7 +139,7 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "propertyType": "tinyhome",
-    "imageUrl": "https://source.unsplash.com/800x600/?tinyhouse,retreat,flagstaff",
+    "imageUrl": "https://images.unsplash.com/photo-1505840717430-8829e59b0768",
     "mapLink": "https://www.google.com/maps?q=901+Cabin+Way,+Flagstaff,+AZ"
   },
   {
@@ -150,7 +150,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "eco",
-    "imageUrl": "https://source.unsplash.com/800x600/?eco,house,green,portland",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
     "mapLink": "https://www.google.com/maps?q=66+Bamboo+Rd,+Portland,+OR"
   },
   {
@@ -161,7 +161,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "propertyType": "apartment",
-    "imageUrl": "https://source.unsplash.com/800x600/?flat,cityview,phoenix",
+    "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
     "mapLink": "https://www.google.com/maps?q=301+Skyline+Dr,+Phoenix,+AZ"
   },
   {
@@ -172,7 +172,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "house",
-    "imageUrl": "https://source.unsplash.com/800x600/?colonial,house,richmond",
+    "imageUrl": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
     "mapLink": "https://www.google.com/maps?q=200+Lincoln+Blvd,+Richmond,+VA"
   },
   {
@@ -183,7 +183,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "cabin",
-    "imageUrl": "https://source.unsplash.com/800x600/?cabin,mountain,wyoming",
+    "imageUrl": "https://images.unsplash.com/photo-1575521262586-18b3e2a8f0ce",
     "mapLink": "https://www.google.com/maps?q=800+Aspen+Trail,+Jackson+Hole,+WY"
   },
   {
@@ -194,7 +194,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "house",
-    "imageUrl": "https://source.unsplash.com/800x600/?craftsman,house,charlotte",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
     "mapLink": "https://www.google.com/maps?q=102+Willow+Lane,+Charlotte,+NC"
   },
   {
@@ -205,7 +205,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "propertyType": "loft",
-    "imageUrl": "https://source.unsplash.com/800x600/?industrial,loft,detroit",
+    "imageUrl": "https://images.unsplash.com/photo-1572120361630-6f2f06a68623",
     "mapLink": "https://www.google.com/maps?q=44+Iron+St,+Detroit,+MI"
   },
   {
@@ -216,7 +216,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "bungalow",
-    "imageUrl": "https://source.unsplash.com/800x600/?bungalow,stylish,tampa",
+    "imageUrl": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
     "mapLink": "https://www.google.com/maps?q=19+Garden+Blvd,+Tampa,+FL"
   },
   {
@@ -227,7 +227,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "house",
-    "imageUrl": "https://source.unsplash.com/800x600/?lakehouse,lake,escape",
+    "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f7c4c59d",
     "mapLink": "https://www.google.com/maps?q=201+Lakeview+Rd,+Madison,+WI"
   },
   {
@@ -238,7 +238,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "villa",
-    "imageUrl": "https://source.unsplash.com/800x600/?villa,modern,desert,scottsdale",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
     "mapLink": "https://www.google.com/maps?q=300+Cactus+Way,+Scottsdale,+AZ"
   },
   {
@@ -249,7 +249,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "propertyType": "condo",
-    "imageUrl": "https://source.unsplash.com/800x600/?condo,highrise,dallas",
+    "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
     "mapLink": "https://www.google.com/maps?q=909+Skyline+Ave,+Dallas,+TX"
   },
   {
@@ -260,7 +260,7 @@
     "bedrooms": 6,
     "bathrooms": 5,
     "propertyType": "mansion",
-    "imageUrl": "https://source.unsplash.com/800x600/?victorian,mansion,savannah",
+    "imageUrl": "https://images.unsplash.com/photo-1562438668-7e5c4a5a6d0b",
     "mapLink": "https://www.google.com/maps?q=5+Grand+Blvd,+Savannah,+GA"
   },
   {
@@ -271,7 +271,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "chalet",
-    "imageUrl": "https://source.unsplash.com/800x600/?chalet,mountain,boulder",
+    "imageUrl": "https://images.unsplash.com/photo-1575521262586-18b3e2a8f0ce",
     "mapLink": "https://www.google.com/maps?q=700+Alpine+Way,+Boulder,+CO"
   },
   {
@@ -282,7 +282,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "barnhouse",
-    "imageUrl": "https://source.unsplash.com/800x600/?barnhouse,countryside,nebraska",
+    "imageUrl": "https://images.unsplash.com/photo-1576941089067-2de3c901e126",
     "mapLink": "https://www.google.com/maps?q=11+Barn+Rd,+Omaha,+NE"
   },
   {
@@ -293,7 +293,7 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "propertyType": "studio",
-    "imageUrl": "https://source.unsplash.com/800x600/?rooftop,studio,sunset,la",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154526-990dced4db0d",
     "mapLink": "https://www.google.com/maps?q=88+Sunset+Blvd,+Los+Angeles,+CA"
   },
   {
@@ -304,7 +304,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "farmhouse",
-    "imageUrl": "https://source.unsplash.com/800x600/?farmhouse,modern,desmoines",
+    "imageUrl": "https://images.unsplash.com/photo-1576941089067-2de3c901e126",
     "mapLink": "https://www.google.com/maps?q=32+Wheatfield+Ln,+Des+Moines,+IA"
   },
   {
@@ -315,7 +315,7 @@
     "bedrooms": 2,
     "bathrooms": 1,
     "propertyType": "apartment",
-    "imageUrl": "https://source.unsplash.com/800x600/?historic,flat,philadelphia",
+    "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
     "mapLink": "https://www.google.com/maps?q=42+Liberty+St,+Philadelphia,+PA"
   },
   {
@@ -326,7 +326,7 @@
     "bedrooms": 5,
     "bathrooms": 4,
     "propertyType": "villa",
-    "imageUrl": "https://source.unsplash.com/800x600/?villa,retreat,santabarbara",
+    "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f7c4c59d",
     "mapLink": "https://www.google.com/maps?q=230+Valley+Rd,+Santa+Barbara,+CA"
   },
   {
@@ -337,7 +337,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "modern",
-    "imageUrl": "https://source.unsplash.com/800x600/?glasshouse,sedona",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
     "mapLink": "https://www.google.com/maps?q=1+Glassway+Ln,+Sedona,+AZ"
   },
   {
@@ -348,7 +348,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "propertyType": "condo",
-    "imageUrl": "https://source.unsplash.com/800x600/?condo,bayarea,oakland",
+    "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
     "mapLink": "https://www.google.com/maps?q=22+Bridge+St,+Oakland,+CA"
   },
   {
@@ -359,7 +359,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "house",
-    "imageUrl": "https://source.unsplash.com/800x600/?capecod,home,providence",
+    "imageUrl": "https://images.unsplash.com/photo-1560448204-e02(buffering) f11c3d0e2",
     "mapLink": "https://www.google.com/maps?q=12+Seashore+Dr,+Providence,+RI"
   },
   {
@@ -370,18 +370,18 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "propertyType": "loft",
-    "imageUrl": "https://source.unsplash.com/800x600/?artistloft,pittsburgh",
+    "imageUrl": "https://images.unsplash.com/photo-1572120361630-6f2f06a68623",
     "mapLink": "https://www.google.com/maps?q=909+Vine+St,+Pittsburgh,+PA"
   },
   {
     "id": 35,
     "title": "Downtown Smart Home",
     "location": "333 Tech Blvd, San Jose, CA",
-    "price": 830000,
+    " price": 830000,
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "smart",
-    "imageUrl": "https://source.unsplash.com/800x600/?smarthome,sanjose,urban",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
     "mapLink": "https://www.google.com/maps?q=333+Tech+Blvd,+San+Jose,+CA"
   },
   {
@@ -392,7 +392,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "propertyType": "suite",
-    "imageUrl": "https://source.unsplash.com/800x600/?garden,suite,sandiego",
+    "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
     "mapLink": "https://www.google.com/maps?q=100+Blossom+St,+San+Diego,+CA"
   },
   {
@@ -403,7 +403,7 @@
     "bedrooms": 1,
     "bathrooms": 1,
     "propertyType": "tinyhome",
-    "imageUrl": "https://source.unsplash.com/800x600/?zen,cabin,eugene",
+    "imageUrl": "https://images.unsplash.com/photo-1505840717430-8829e59b0768",
     "mapLink": "https://www.google.com/maps?q=8+Oak+Path,+Eugene,+OR"
   },
   {
@@ -414,7 +414,7 @@
     "bedrooms": 2,
     "bathrooms": 1,
     "propertyType": "loft",
-    "imageUrl": "https://source.unsplash.com/800x600/?brickloft,cincinnati",
+    "imageUrl": "https://images.unsplash.com/photo-1572120361630-6f2f06a68623",
     "mapLink": "https://www.google.com/maps?q=44+Brick+Row,+Cincinnati,+OH"
   },
   {
@@ -425,7 +425,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "house",
-    "imageUrl": "https://source.unsplash.com/800x600/?hillhome,helena",
+    "imageUrl": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
     "mapLink": "https://www.google.com/maps?q=57+Crest+Rd,+Helena,+MT"
   },
   {
@@ -436,7 +436,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "townhouse",
-    "imageUrl": "https://source.unsplash.com/800x600/?scandinavian,home,fargo",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
     "mapLink": "https://www.google.com/maps?q=11+Birch+St,+Fargo,+ND"
   }
 ]
