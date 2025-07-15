@@ -21,39 +21,8 @@
     "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
     "mapLink": "https://www.google.com/maps?q=456+Market+St,+San+Francisco,+CA"
   },
-  {
-    "id": 3,
-    "title": "Beachfront Villa",
-    "location": "9 Ocean Drive, Miami, FL",
-    "price": 1850000,
-    "bedrooms": 5,
-    "bathrooms": 4,
-    "propertyType": "villa",
-    "imageUrl": "https://images.unsplash.com/photo-1720086301569-12ead389f903?w=1600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhvdXNlJTIwaW5kaWF8ZW58MHx8MHx8fDA%3D",
-    "mapLink": "https://www.google.com/maps?q=9+Ocean+Drive,+Miami,+FL"
-  },
-  {
-    "id": 4,
-    "title": "Cozy Cottage",
-    "location": "77 Maple Lane, Asheville, NC",
-    "price": 325000,
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "propertyType": "cottage",
-    "imageUrl": "https://www.pexels.com/photo/brown-and-beige-wooden-house-under-blue-sky-221540/",
-    "mapLink": "https://www.google.com/maps?q=77+Maple+Lane,+Asheville,+NC"
-  },
-  {
-    "id": 5,
-    "title": "Downtown Loft",
-    "location": "22 Pearl St, Denver, CO",
-    "price": 695000,
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "propertyType": "loft",
-    "imageUrl": "https://www.pexels.com/photo/white-single-story-houses-beside-body-of-water-1438832/",
-    "mapLink": "https://www.google.com/maps?q=22+Pearl+St,+Denver,+CO"
-  },
+
+ 
   {
     "id": 6,
     "title": "Suburban Gem",
@@ -98,28 +67,8 @@
     "imageUrl": "https://images.unsplash.com/photo-1576941089067-2de3c901e126",
     "mapLink": "https://www.google.com/maps?q=15+Riverbank+Rd,+Nashville,+TN"
   },
-  {
-    "id": 10,
-    "title": "Historic Brownstone",
-    "location": "10 Beacon Hill, Boston, MA",
-    "price": 995000,
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "propertyType": "townhouse",
-    "imageUrl": "https://www.pexels.com/photo/white-concrete-temple-208736/",
-    "mapLink": "https://www.google.com/maps?q=10+Beacon+Hill,+Boston,+MA"
-  },
-  {
-    "id": 11,
-    "title": "Modern Row House",
-    "location": "55 H St, Washington, DC",
-    "price": 875000,
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "propertyType": "rowhouse",
-    "imageUrl": "https://www.pexels.com/photo/brown-wall-paint-house-near-at-garden-209315/",
-    "mapLink": "https://www.google.com/maps?q=55+H+St,+Washington,+DC"
-  },
+ 
+  
   {
     "id": 12,
     "title": "Spacious Duplex",
@@ -131,17 +80,7 @@
     "imageUrl": "https://images.unsplash.com/photo-1600585152915-d208bec867a1",
     "mapLink": "https://www.google.com/maps?q=1910+North+Ave,+Atlanta,+GA"
   },
-  {
-    "id": 13,
-    "title": "Tiny Home Retreat",
-    "location": "901 Cabin Way, Flagstaff, AZ",
-    "price": 285000,
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "propertyType": "tinyhome",
-    "imageUrl": "https://www.pexels.com/photo/house-near-body-of-water-262405/",
-    "mapLink": "https://www.google.com/maps?q=901+Cabin+Way,+Flagstaff,+AZ"
-  },
+ 
   {
     "id": 14,
     "title": "Green Living Eco House",
@@ -175,17 +114,7 @@
     "imageUrl": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
     "mapLink": "https://www.google.com/maps?q=200+Lincoln+Blvd,+Richmond,+VA"
   },
-  {
-    "id": 17,
-    "title": "Mountain Cabin Escape",
-    "location": "800 Aspen Trail, Jackson Hole, WY",
-    "price": 815000,
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "propertyType": "cabin",
-    "imageUrl": "https://www.pexels.com/photo/brown-brick-house-beside-trees-259593/",
-    "mapLink": "https://www.google.com/maps?q=800+Aspen+Trail,+Jackson+Hole,+WY"
-  },
+ 
   {
     "id": 18,
     "title": "Elegant Craftsman Home",
@@ -197,17 +126,7 @@
     "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
     "mapLink": "https://www.google.com/maps?q=102+Willow+Lane,+Charlotte,+NC"
   },
-  {
-    "id": 19,
-    "title": "Industrial Loft Space",
-    "location": "44 Iron St, Detroit, MI",
-    "price": 470000,
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "propertyType": "loft",
-    "imageUrl": "https://www.pexels.com/photo/white-grey-and-red-wooden-house-164522/",
-    "mapLink": "https://www.google.com/maps?q=44+Iron+St,+Detroit,+MI"
-  },
+ 
   {
     "id": 20,
     "title": "Stylish Bungalow",
@@ -219,17 +138,7 @@
     "imageUrl": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
     "mapLink": "https://www.google.com/maps?q=19+Garden+Blvd,+Tampa,+FL"
   },
-  {
-    "id": 21,
-    "title": "Lakefront Escape",
-    "location": "201 Lakeview Rd, Madison, WI",
-    "price": 790000,
-    "bedrooms": 4,
-    "bathrooms": 3,
-    "propertyType": "house",
-    "imageUrl": "https://www.pexels.com/photo/photo-of-brown-and-white-houses-2119713/",
-    "mapLink": "https://www.google.com/maps?q=201+Lakeview+Rd,+Madison,+WI"
-  },
+ 
   {
     "id": 22,
     "title": "Desert Modern Villa",
@@ -252,28 +161,7 @@
     "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
     "mapLink": "https://www.google.com/maps?q=909+Skyline+Ave,+Dallas,+TX"
   },
-  {
-    "id": 24,
-    "title": "Victorian Mansion",
-    "location": "5 Grand Blvd, Savannah, GA",
-    "price": 1350000,
-    "bedrooms": 6,
-    "bathrooms": 5,
-    "propertyType": "mansion",
-    "imageUrl": "https://www.pexels.com/photo/white-concrete-house-under-sky-259685/",
-    "mapLink": "https://www.google.com/maps?q=5+Grand+Blvd,+Savannah,+GA"
-  },
-  {
-    "id": 25,
-    "title": "Mountain View Chalet",
-    "location": "700 Alpine Way, Boulder, CO",
-    "price": 885000,
-    "bedrooms": 4,
-    "bathrooms": 3,
-    "propertyType": "chalet",
-    "imageUrl": "https://www.pexels.com/photo/brown-wooden-house-under-blue-sky-2183521/",
-    "mapLink": "https://www.google.com/maps?q=700+Alpine+Way,+Boulder,+CO"
-  },
+
   {
     "id": 26,
     "title": "Countryside Barnhouse",
@@ -296,17 +184,7 @@
     "imageUrl": "https://images.unsplash.com/photo-1600585154526-990dced4db0d",
     "mapLink": "https://www.google.com/maps?q=88+Sunset+Blvd,+Los+Angeles,+CA"
   },
-  {
-    "id": 28,
-    "title": "Modern Farmhouse",
-    "location": "32 Wheatfield Ln, Des Moines, IA",
-    "price": 580000,
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "propertyType": "farmhouse",
-    "imageUrl": "https://www.pexels.com/photo/round-brown-wooden-5-piece-dining-set-in-room-1571463/",
-    "mapLink": "https://www.google.com/maps?q=32+Wheatfield+Ln,+Des+Moines,+IA"
-  },
+ 
   {
     "id": 29,
     "title": "Historic City Flat",
@@ -318,17 +196,7 @@
     "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
     "mapLink": "https://www.google.com/maps?q=42+Liberty+St,+Philadelphia,+PA"
   },
-  {
-    "id": 30,
-    "title": "Hillside Retreat",
-    "location": "230 Valley Rd, Santa Barbara, CA",
-    "price": 1120000,
-    "bedrooms": 5,
-    "bathrooms": 4,
-    "propertyType": "villa",
-    "imageUrl": "https://www.pexels.com/photo/white-concrete-house-under-clear-blue-sky-2371975/",
-    "mapLink": "https://www.google.com/maps?q=230+Valley+Rd,+Santa+Barbara,+CA"
-  },
+ 
   {
     "id": 31,
     "title": "Glass House Getaway",
@@ -352,28 +220,6 @@
     "mapLink": "https://www.google.com/maps?q=22+Bridge+St,+Oakland,+CA"
   },
   {
-    "id": 33,
-    "title": "Cape Cod Style Home",
-    "location": "12 Seashore Dr, Providence, RI",
-    "price": 675000,
-    "bedrooms": 3,
-    "bathrooms": 2,
-    "propertyType": "house",
-    "imageUrl": "https://www.pexels.com/photo/white-pink-yellow-and-teal-painted-houses-415687/",
-    "mapLink": "https://www.google.com/maps?q=12+Seashore+Dr,+Providence,+RI"
-  },
-  {
-    "id": 34,
-    "title": "Artist’s Loft",
-    "location": "909 Vine St, Pittsburgh, PA",
-    "price": 460000,
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "propertyType": "loft",
-    "imageUrl": "https://www.pexels.com/photo/photo-of-couple-standing-outside-the-house-1170686/",
-    "mapLink": "https://www.google.com/maps?q=909+Vine+St,+Pittsburgh,+PA"
-  },
-  {
     "id": 35,
     "title": "Downtown Smart Home",
     "location": "333 Tech Blvd, San Jose, CA",
@@ -394,28 +240,6 @@
     "propertyType": "suite",
     "imageUrl": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
     "mapLink": "https://www.google.com/maps?q=100+Blossom+St,+San+Diego,+CA"
-  },
-  {
-    "id": 37,
-    "title": "Tiny Zen Cabin",
-    "location": "8 Oak Path, Eugene, OR",
-    "price": 325000,
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "propertyType": "tinyhome",
-    "imageUrl": "https://www.pexels.com/photo/photo-of-palm-trees-and-flowers-near-a-building-2587054/",
-    "mapLink": "https://www.google.com/maps?q=8+Oak+Path,+Eugene,+OR"
-  },
-  {
-    "id": 38,
-    "title": "Modern Brick Loft",
-    "location": "44 Brick Row, Cincinnati, OH",
-    "price": 555000,
-    "bedrooms": 2,
-    "bathrooms": 1,
-    "propertyType": "loft",
-    "imageUrl": "https://www.pexels.com/photo/white-house-2194399/",
-    "mapLink": "https://www.google.com/maps?q=44+Brick+Row,+Cincinnati,+OH"
   },
   {
     "id": 39,
