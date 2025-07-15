@@ -16,7 +16,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "house",
-    "imageUrl": "https://images.unsplash.com/photo-1600585153943-5600c5b45e3c",
+    "imageUrl": "https://unsplash.com/photos/white-and-grey-concrete-building-near-swimming-pool-under-clear-sky-during-daytime-2d4lAQAlbDA",
     "mapsUrl": "https://www.google.com/maps/place/456+Oak+Ave,+Los+Angeles,+CA"
   },
   {
@@ -36,7 +36,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "apartment",
-    "imageUrl": "https://images.unsplash.com/photo-1572120360610-d971b9b78827",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1682377521590-bc565126cb4d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D",
     "mapsUrl": "https://www.google.com/maps/place/1600+Amphitheatre+Parkway,+Mountain+View,+CA"
   },
   {
@@ -46,7 +46,7 @@
     "bedrooms": 5,
     "bathrooms": 4,
     "propertyType": "house",
-    "imageUrl": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd7",
+    "imageUrl": "https://images.unsplash.com/photo-1748564222435-c582a1ab0d4b?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D",
     "mapsUrl": "https://www.google.com/maps/place/1+Infinite+Loop,+Cupertino,+CA"
   },
   {
@@ -66,7 +66,7 @@
     "bedrooms": 4,
     "bathrooms": 2,
     "propertyType": "apartment",
-    "imageUrl": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+    "imageUrl": "https://images.unsplash.com/photo-1707190205232-021701d343a9?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
     "mapsUrl": "https://www.google.com/maps/place/221B+Baker+St,+London"
   },
   {
@@ -106,7 +106,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "apartment",
-    "imageUrl": "https://images.unsplash.com/photo-1550565101-c7ef33c25138",
+    "imageUrl": "https://images.unsplash.com/photo-1722247523663-09f0325ef054?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQyfHx8ZW58MHx8fHx8",
     "mapsUrl": "https://www.google.com/maps/place/30+Rockefeller+Plaza,+New+York,+NY"
   },
   {
@@ -126,7 +126,7 @@
     "bedrooms": 3,
     "bathrooms": 3,
     "propertyType": "apartment",
-    "imageUrl": "https://images.unsplash.com/photo-1600607681428-2f198d6f5f65",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1682377521765-d5a6f0bfbe1f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQ3fHx8ZW58MHx8fHx8",
     "mapsUrl": "https://www.google.com/maps/place/600+Congress+Ave,+Austin,+TX"
   },
   {
@@ -136,7 +136,7 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "apartment",
-    "imageUrl": "https://images.unsplash.com/photo-1557170334-a9632e77c6ed",
+    "imageUrl": "https://images.unsplash.com/photo-1744405901062-d881973bc195?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDUyfHx8ZW58MHx8fHx8",
     "mapsUrl": "https://www.google.com/maps/place/1000+5th+Ave,+New+York,+NY"
   },
   {
@@ -146,7 +146,7 @@
     "bedrooms": 6,
     "bathrooms": 5,
     "propertyType": "house",
-    "imageUrl": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809",
+    "imageUrl": "https://images.unsplash.com/photo-1594398901394-4e34939a4fd0?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDU0fHx8ZW58MHx8fHx8",
     "mapsUrl": "https://www.google.com/maps/place/1600+Pennsylvania+Ave+NW,+Washington,+DC"
   },
   {
@@ -156,7 +156,7 @@
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "house",
-    "imageUrl": "https://images.unsplash.com/photo-1601979031925-012d3d8c9bf9",
+    "imageUrl": "https://images.unsplash.com/photo-1745761321363-da0d5b6013ce?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDU3fHx8ZW58MHx8fHx8",
     "mapsUrl": "https://www.google.com/maps/place/500+Terry+Francois+Blvd,+San+Francisco,+CA"
   },
   {
@@ -176,7 +176,7 @@
     "bedrooms": 4,
     "bathrooms": 4,
     "propertyType": "apartment",
-    "imageUrl": "https://images.unsplash.com/photo-1560448070-c6c1f8e7c87a",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1723823034538-7597ffd01909?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDYzfHx8ZW58MHx8fHx8",
     "mapsUrl": "https://www.google.com/maps/place/800+W+Olympic+Blvd,+Los+Angeles,+CA"
   },
   {
@@ -186,7 +186,7 @@
     "bedrooms": 2,
     "bathrooms": 2,
     "propertyType": "apartment",
-    "imageUrl": "https://images.unsplash.com/photo-1575507479993-7f42a0c0f24d",
+    "imageUrl": "https://images.unsplash.com/photo-1721232788646-7f935a60e5af?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDY5fHx8ZW58MHx8fHx8",
     "mapsUrl": "https://www.google.com/maps/place/5+Hanover+Square,+New+York,+NY"
   },
   {
