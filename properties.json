@@ -9,16 +9,16 @@
     "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
     "mapsUrl": "https://www.google.com/maps/place/123+Main+St,+New+York,+NY"
   },
-  {
-    "id": 102,
-    "location": "456 Oak Ave, Los Angeles, CA",
-    "price": 650000,
-    "bedrooms": 4,
-    "bathrooms": 3,
-    "propertyType": "house",
-    "imageUrl": "https://images.unsplash.com/photo-1674761785706-583edd697a97?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwMHx8fGVufDB8fHx8fA%3D%3D",
-    "mapsUrl": "https://www.google.com/maps/place/456+Oak+Ave,+Los+Angeles,+CA"
-  },
+ {
+  "id": 102,
+  "location": "2000 University Ave, Austin, TX",
+  "price": 760000,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "propertyType": "house",
+  "imageUrl": "https://images.unsplash.com/photo-1699497164596-644199a418b1?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwOXx8fGVufDB8fHx8fA%3D%3D",
+  "mapsUrl": "https://www.google.com/maps/place/2000+University+Ave,+Austin,+TX"
+},
   {
     "id": 103,
     "location": "22 Cedar Lane, Seattle, WA",
