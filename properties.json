@@ -1,29 +1,202 @@
 [
   {
     "id": 101,
-    "location": "123 Main St, New York",
+    "location": "123 Main St, New York, NY",
     "price": 450000,
     "bedrooms": 3,
     "bathrooms": 2,
     "propertyType": "house",
-    "imageUrl": "https://s3.amazonaws.com/rcp-prod-uploads/property_images/slider_images/2021-06/da3ae62144e59058a1d27b1b958af4b96a6135e5LE.jpg"
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "mapsUrl": "https://www.google.com/maps/place/123+Main+St,+New+York,+NY"
   },
   {
     "id": 102,
-    "location": "456 Oak Ave, Los Angeles",
+    "location": "456 Oak Ave, Los Angeles, CA",
     "price": 650000,
     "bedrooms": 4,
     "bathrooms": 3,
     "propertyType": "house",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg05oCCpRx3IHhtJRHcyIzpTG6SJTTNazCVw&s"
+    "imageUrl": "https://images.unsplash.com/photo-1600585153943-5600c5b45e3c",
+    "mapsUrl": "https://www.google.com/maps/place/456+Oak+Ave,+Los+Angeles,+CA"
   },
   {
     "id": 103,
-    "location": "22 Cedar Lane, Seattle",
+    "location": "22 Cedar Lane, Seattle, WA",
     "price": 590000,
     "bedrooms": 2,
     "bathrooms": 1,
     "propertyType": "house",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQracQu4WbuywNp_VIaZtSpoBYPN4U-EeM30A&s"
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "mapsUrl": "https://www.google.com/maps/place/22+Cedar+Lane,+Seattle,+WA"
+  },
+  {
+    "id": 104,
+    "location": "1600 Amphitheatre Parkway, Mountain View, CA",
+    "price": 850000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1572120360610-d971b9b78827",
+    "mapsUrl": "https://www.google.com/maps/place/1600+Amphitheatre+Parkway,+Mountain+View,+CA"
+  },
+  {
+    "id": 105,
+    "location": "1 Infinite Loop, Cupertino, CA",
+    "price": 1200000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "propertyType": "house",
+    "imageUrl": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd7",
+    "mapsUrl": "https://www.google.com/maps/place/1+Infinite+Loop,+Cupertino,+CA"
+  },
+  {
+    "id": 106,
+    "location": "350 5th Ave, New York, NY 10118",
+    "price": 2000000,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "mapsUrl": "https://www.google.com/maps/place/350+5th+Ave,+New+York,+NY+10118"
+  },
+  {
+    "id": 107,
+    "location": "221B Baker Street, London",
+    "price": 990000,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1599423300746-b62533397364",
+    "mapsUrl": "https://www.google.com/maps/place/221B+Baker+St,+London"
+  },
+  {
+    "id": 108,
+    "location": "10 Downing Street, London",
+    "price": 1500000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "propertyType": "house",
+    "imageUrl": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "mapsUrl": "https://www.google.com/maps/place/10+Downing+St,+London"
+  },
+  {
+    "id": 109,
+    "location": "100 Market St, San Francisco, CA",
+    "price": 980000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+    "mapsUrl": "https://www.google.com/maps/place/100+Market+St,+San+Francisco,+CA"
+  },
+  {
+    "id": 110,
+    "location": "500 Brickell Ave, Miami, FL",
+    "price": 820000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
+    "mapsUrl": "https://www.google.com/maps/place/500+Brickell+Ave,+Miami,+FL"
+  },
+  {
+    "id": 111,
+    "location": "30 Rockefeller Plaza, New York, NY",
+    "price": 1780000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1550565101-c7ef33c25138",
+    "mapsUrl": "https://www.google.com/maps/place/30+Rockefeller+Plaza,+New+York,+NY"
+  },
+  {
+    "id": 112,
+    "location": "77 Massachusetts Ave, Cambridge, MA",
+    "price": 740000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1551907234-30cb0b27c6ce",
+    "mapsUrl": "https://www.google.com/maps/place/77+Massachusetts+Ave,+Cambridge,+MA"
+  },
+  {
+    "id": 113,
+    "location": "600 Congress Ave, Austin, TX",
+    "price": 890000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1600607681428-2f198d6f5f65",
+    "mapsUrl": "https://www.google.com/maps/place/600+Congress+Ave,+Austin,+TX"
+  },
+  {
+    "id": 114,
+    "location": "1000 5th Ave, New York, NY",
+    "price": 1250000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1557170334-a9632e77c6ed",
+    "mapsUrl": "https://www.google.com/maps/place/1000+5th+Ave,+New+York,+NY"
+  },
+  {
+    "id": 115,
+    "location": "1600 Pennsylvania Ave NW, Washington, DC",
+    "price": 3000000,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "propertyType": "house",
+    "imageUrl": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809",
+    "mapsUrl": "https://www.google.com/maps/place/1600+Pennsylvania+Ave+NW,+Washington,+DC"
+  },
+  {
+    "id": 116,
+    "location": "500 Terry Francois Blvd, San Francisco, CA",
+    "price": 950000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertyType": "house",
+    "imageUrl": "https://images.unsplash.com/photo-1601979031925-012d3d8c9bf9",
+    "mapsUrl": "https://www.google.com/maps/place/500+Terry+Francois+Blvd,+San+Francisco,+CA"
+  },
+  {
+    "id": 117,
+    "location": "222 W Merchandise Mart Plaza, Chicago, IL",
+    "price": 830000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c203602cb",
+    "mapsUrl": "https://www.google.com/maps/place/222+W+Merchandise+Mart+Plaza,+Chicago,+IL"
+  },
+  {
+    "id": 118,
+    "location": "800 W Olympic Blvd, Los Angeles, CA",
+    "price": 1350000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1560448070-c6c1f8e7c87a",
+    "mapsUrl": "https://www.google.com/maps/place/800+W+Olympic+Blvd,+Los+Angeles,+CA"
+  },
+  {
+    "id": 119,
+    "location": "5 Hanover Square, New York, NY",
+    "price": 870000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertyType": "apartment",
+    "imageUrl": "https://images.unsplash.com/photo-1575507479993-7f42a0c0f24d",
+    "mapsUrl": "https://www.google.com/maps/place/5+Hanover+Square,+New+York,+NY"
+  },
+  {
+    "id": 120,
+    "location": "1250 24th St NW, Washington, DC",
+    "price": 920000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertyType": "house",
+    "imageUrl": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+    "mapsUrl": "https://www.google.com/maps/place/1250+24th+St+NW,+Washington,+DC"
   }
 ]
